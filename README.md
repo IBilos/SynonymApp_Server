@@ -26,10 +26,10 @@ Podržava dodavanje sinonima, dohvat svih sinonima za zadanu riječ, kao i autom
 git clone https://github.com/tvoj-username/synonym-backend.git
 cd synonym-backend
 
-2️. Instaliraj ovisnosti:
+2. Instaliraj ovisnosti:
 npm install
 
-3️. Pokreni server:
+3. Pokreni server:
 npm start
 
 Server će raditi na:
